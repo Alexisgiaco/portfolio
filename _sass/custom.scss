@@ -18,6 +18,17 @@ $text-color: #333;
   $text-color: #1e0101;
 }
 
+.btn {
+  padding: 10px 20px;               /* Adds space around the text */
+  background-color: #004466;        /* Dark blue background */
+  color: white;                     /* White text */
+  border-radius: 5px;               /* Rounded corners */
+  text-decoration: none;           /* Removes underline from the link */
+}
+
+.btn:hover {
+  background-color: #006699;        /* Lighter blue on hover */
+}
 
 .navbar, h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
