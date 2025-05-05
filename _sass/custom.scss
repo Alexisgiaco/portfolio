@@ -3,20 +3,7 @@ $primary-color: #3a3f58;
 $background-color: #f7f8fa;
 $text-color: #333;
 
-// Set theme colors based on the color_scheme variable
-@if $color_scheme == 'dark' {
-  $primary-color: #333;
-  $background-color: #000;
-  $text-color: #fff;
-} @else if $color_scheme == 'aqua' {
-  $primary-color: #598392;
-  $background-color: #eff6e0;
-  $text-color: #01161e;
-} @else if $color_scheme == 'desert' {
-  $primary-color: #925959;
-  $background-color: #f6f1e0;
-  $text-color: #1e0101;
-}
+
 
 .btn {
   padding: 10px 20px;               /* Adds space around the text */
