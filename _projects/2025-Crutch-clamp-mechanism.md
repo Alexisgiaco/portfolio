@@ -1,25 +1,30 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
+title: Crutch Clamp Mechanism
+description: Design Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/Crutch-clamp-mechanism.png
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+For a class, we were asked to find an everyday issue and design a product to overcome it. After having interviewed many people my team and I realized that many handicaped people using crutches were encoutering difficulties in avoiding their crutches from falling while sitting on a table.  
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Our design strategy was to build an easy to use, reliable clamp that keeps crutches from falling when leaned against a table. The core structure consists of a fixed lower block, which contains a hollow interior that guides the motion of a vertically sliding upper clamp. This upper component is manually lifted to fit over a table edge and then released, allowing two compression springs, mounted on lateral shafts, to pull it downward and generate a clamping force. The use of springs allows for a variance in table width as the clamp can be widened or closed, while also applying enough force for the entire device and crutches to remain fixed to the table when in use.  We aimed to provide sufficient spring force to allow the clamp to function at a minimum table width of 0.5”, while also allowing for both enough extension and a reasonable enough force to extend to a maximum table width of 2.5’’.  Once the clamp is secured to the table, a strap securely holds the crutches in place so they don’t slide or fall.
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Photos of first design]({{ "/assets/images/First-version-of-clamp-1.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+After testing the first prototype, our team looked into improving the current strap system used to hold the crutches in place. We were iintially using a basic strap with holes that fit over the lateral 3D-printed shafts on the clamp structure. While this worked, it wasn't the easiest to adjust or tighten. We also ntoiced a safety concern: the clamp snapping fast together when taking it off the table.
 
-I was inspired by this old radio when I made this rendering:
+The most successful change we made to finalise our design was replacing the fabric strap with a custom 3D-printed handle system. 
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+The handle provides a much more secure hold on the crutches; preventing them from slipping or wobbling, and also makes the clamp easier to use and more intuitive. It added a built-in handle that makes the Crutch Clamp easier and safer to use.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Another improvement made was swapping out the original springs for ones with a lower stiffness. This made the clamp much easier to open and adjust, especially for users with less grip strength, while still providing enough force to keep everything locked in place. These changes also fixed the safety concern of the clamp snapping too fast  when taking it off the table. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+![Photo of final version, 1]({{ "/assets/images/Final-version-of-the-clamp-1.png" | relative_url }}){: .inline-image-l}
+
+![Photos of final version, 2]({{ "/assets/images/Final-version-of-the-clamp-2.png" | relative_url }}){: .inline-image-l}
+
+For this build, we decided to 3D print all the main parts ourselves: the lower and upper clamp blocks, spring housings, and the gate system. Printing gave us a lot of freedom to quickly test ideas and make changes when needed. The only thing we bought were the compression springs from McMaster-Carr. We felt it made more sense to purchase those instead of trying to make something similar ourselves, since we needed consistent force and reliable performance to make the clamp actually work. The total cost of our prototype was $497.17.
+
+Looking back at our iteration and approaches to the prototypes and final design, we wish that we created the initial prototype by utilizing a cheaper material such as acrylic or some equivalent material. We also realised that a smaller design could be more optimal, for transportability. Instead of following this approach, we 3D printed the entire initial iteration which didn’t give us much leeway in ideally improving our final ODP. Since we ran into financial restrictions, due to our commitment to 3D printing, we were not able to create a completely new and improved prototype easily. We stuck with our original 3D print, and the only improvements that we could implement were the inlet rod pieces and the subsequent attachment pieces to the rods. 
