@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Crutch Clamp Mechanism
+title: Crutch Clamp 
 description: Design Project
 technologies: [Autodesk Fusion]
 image: /assets/images/Crutch-clamp-mechanism.png
