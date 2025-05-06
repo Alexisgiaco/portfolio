@@ -13,4 +13,4 @@ My name is {{ site.name }}, and I’m a mechanical engineering student at the Un
 
 I’ve been involved in competitive sports throughout my life, and I bring that same discipline and drive to my engineering studies. Passionate about both automotive and aerospace engineering, I’m excited to be starting a three-month summer internship at McLaren Racing.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/assets/CV.pdf" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/assets/CV.pdf/" | relative_url }}">CV</a>.
