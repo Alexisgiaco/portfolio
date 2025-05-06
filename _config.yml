@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Alexis Giacomotto
 description              : Alexis Giacomotto - Projects and CV 
-baseurl                  : "/spring-2025-portfolio-Alexisgiaco/" # Set this to "portfolio-<your-github-username>" 
+baseurl                  : "" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
