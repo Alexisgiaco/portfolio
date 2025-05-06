@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Alexis Giacomotto>
+title: Alexis Giacomotto
 ---
 
 ## About Me
