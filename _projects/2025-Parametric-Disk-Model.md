@@ -19,10 +19,8 @@ In Formula One, the extremely high speeds generate significant heat in the wheel
 
 Our approach was to create a parametric disc model, allowing us to adjust key design parameters—such as the number of holes, number of rows, hole diameter, row offset angle, and spacing between holes—to evaluate their impact on cooling performance.
 
-![Final version 1]({{ "/assets/images/Parametric-Disk-Model3.jpg" | relative_url }}){: .inline-image-r style="width: 200px" }
-
-
 We found that a linear hole pattern caused stress to accumulate in specific areas, increasing the risk of cracking. To prevent this, we introduced an angular offset between rows, which helped distribute the stresses more evenly across the disc.
 
-![Final version 2]({{ "/assets/images/Parametric-Disk-Model4.jpg" | relative_url }}){: .inline-image-l style="width: 200px" }
+![Final version]({{ "/assets/images/Parametric-Disk-Model3.jpg" | relative_url }}){: .inline-image-r style="width: 200px" }
+![Final version]({{ "/assets/images/Parametric-Disk-Model4.jpg" | relative_url }}){: .inline-image-l style="width: 200px" }
 
