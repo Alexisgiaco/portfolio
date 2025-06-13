@@ -21,10 +21,7 @@ Our approach was to create a parametric disc model, allowing us to adjust key de
 
 We found that a linear hole pattern caused stress to accumulate in specific areas, increasing the risk of cracking. To prevent this, we introduced an angular offset between rows, which helped distribute the stresses more evenly across the disc.
 
-
 ![Photo of final version, 1]({{"/assets/images/Parametric-Disk-Model3.jpg" | relative_url }}){: .inline-image-l}
-
-
 
 ![Photos of final version, 2]({{"/assets/images/Parametric-Disk-Model4.jpg" | relative_url }}){: .inline-image-l}
 
