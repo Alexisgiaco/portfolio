@@ -6,7 +6,7 @@ technologies: [Autodesk Fusion]
 image: /assets/images/Crutch-clamp-mechanism.png
 ---
 
-or a class project, we were asked to identify an everyday issue and design a product to solve it. After interviewing several people, my team and I found that many individuals who use crutches struggle to keep them from falling when seated at a table.
+For a class project, we were asked to identify an everyday issue and design a product to solve it. After interviewing several people, my team and I found that many individuals who use crutches struggle to keep them from falling when seated at a table.
 
 Our solution was to design a simple, reliable clamp that holds crutches upright when leaned against a table. The mechanism consists of a fixed lower block and a sliding upper clamp guided by a hollow channel. This upper part is lifted manually and then released, allowing two lateral compression springs to pull it down and generate a clamping force.
 
