@@ -12,4 +12,4 @@ My name is {{ site.name }}, and I’m a mechanical engineering student at the Un
 
 I also have a strong interest in finance and economics, which I’ve explored through two internships in the investment banking industry.
 
-Take a look at my CV and a selection of projects I’ve completed through my academic and professional experiences below (with more to come). <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ '/assets/CV.pdf' | relative_url }}">CV</a>
+Take a look at my CV and a selection of projects I’ve completed through my academic and professional experiences (with more to come). <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ '/assets/CV.pdf' | relative_url }}">CV</a>
